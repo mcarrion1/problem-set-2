@@ -1,5 +1,5 @@
 # Problem Set 2: Uncertainty, Holdouts, and Bootstrapping
-
+Test in RStudio
 ## Fork the repository
 
 Fork the repository for the problem set 2, `problem-set-2` (https://github.com/macss-ml20/problem-set-2). _Remember, all final submissions should be a single rendered PDF with code produced in-line._ Also, don't forget to **open the pull request** once you've committed your final submission to your forked repository. It needs to be merged back into the course master branch to be considered "submitted". See the syllabus for details.
